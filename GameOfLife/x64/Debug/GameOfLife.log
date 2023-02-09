@@ -1,0 +1,151 @@
+﻿  GameOfLife.cpp
+C:\Users\g2018\source\repos\GameOfLife\GameOfLife\Grid.h(97,50): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\g2018\source\repos\GameOfLife\GameOfLife\Grid.h(91): message : while compiling class template member function 'void Grid<80,60>::updateGrid(void)'
+C:\Users\g2018\source\repos\GameOfLife\GameOfLife\GameOfLife.cpp(37): message : see reference to function template instantiation 'void Grid<80,60>::updateGrid(void)' being compiled
+C:\Users\g2018\source\repos\GameOfLife\GameOfLife\GameOfLife.cpp(18): message : see reference to class template instantiation 'Grid<80,60>' being compiled
+C:\Users\g2018\source\repos\GameOfLife\GameOfLife\Grid.h(97,39): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\g2018\source\repos\GameOfLife\GameOfLife\Grid.h(98,56): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\g2018\source\repos\GameOfLife\GameOfLife\Grid.h(98,45): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\g2018\source\repos\GameOfLife\GameOfLife\Grid.h(99,62): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\g2018\source\repos\GameOfLife\GameOfLife\Grid.h(99,45): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\g2018\source\repos\GameOfLife\GameOfLife\Grid.h(100,56): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\g2018\source\repos\GameOfLife\GameOfLife\Grid.h(100,39): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\g2018\source\repos\GameOfLife\GameOfLife\Grid.h(102,40): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\g2018\source\repos\GameOfLife\GameOfLife\Grid.h(103,44): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\g2018\source\repos\GameOfLife\GameOfLife\Grid.h(104,65): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\g2018\source\repos\GameOfLife\GameOfLife\Grid.h(104,44): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\g2018\source\repos\GameOfLife\GameOfLife\Grid.h(105,61): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\g2018\source\repos\GameOfLife\GameOfLife\Grid.h(105,40): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\g2018\source\repos\GameOfLife\GameOfLife\Grid.h(40,15): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\g2018\source\repos\GameOfLife\GameOfLife\Grid.h(39): message : while compiling class template member function 'int Grid<80,60>::click(int,int)'
+C:\Users\g2018\source\repos\GameOfLife\GameOfLife\GameOfLife.cpp(36): message : see reference to function template instantiation 'int Grid<80,60>::click(int,int)' being compiled
+C:\Users\g2018\source\repos\GameOfLife\GameOfLife\Grid.h(41,15): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\g2018\source\repos\GameOfLife\GameOfLife\Grid.h(43,20): warning C4244: '/=': conversion from 'float' to 'int', possible loss of data
+C:\Users\g2018\source\repos\GameOfLife\GameOfLife\Grid.h(44,20): warning C4244: '/=': conversion from 'float' to 'int', possible loss of data
+C:\Users\g2018\source\repos\GameOfLife\GameOfLife\Grid.h(27,50): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\g2018\source\repos\GameOfLife\GameOfLife\Grid.h(14): message : while compiling class template member function 'Grid<80,60>::Grid(sf::Texture &)'
+C:\Users\g2018\source\repos\GameOfLife\GameOfLife\GameOfLife.cpp(18): message : see reference to function template instantiation 'Grid<80,60>::Grid(sf::Texture &)' being compiled
+C:\Users\g2018\source\repos\GameOfLife\GameOfLife\Grid.h(27,39): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\g2018\source\repos\GameOfLife\GameOfLife\Grid.h(28,56): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\g2018\source\repos\GameOfLife\GameOfLife\Grid.h(28,45): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\g2018\source\repos\GameOfLife\GameOfLife\Grid.h(29,62): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\g2018\source\repos\GameOfLife\GameOfLife\Grid.h(29,45): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\g2018\source\repos\GameOfLife\GameOfLife\Grid.h(30,56): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\g2018\source\repos\GameOfLife\GameOfLife\Grid.h(30,39): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\g2018\source\repos\GameOfLife\GameOfLife\Grid.h(33,38): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\g2018\source\repos\GameOfLife\GameOfLife\Grid.h(34,45): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\g2018\source\repos\GameOfLife\GameOfLife\Grid.h(34,38): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\g2018\source\repos\GameOfLife\GameOfLife\Grid.h(35,41): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  GameOfLife.vcxproj -> C:\Users\g2018\source\repos\GameOfLife\x64\Debug\GameOfLife.exe

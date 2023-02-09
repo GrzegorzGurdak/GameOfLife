@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+/.vs/
+/.git/
+/GameOfLife/x64/Debug/GameOfLife.tlog
